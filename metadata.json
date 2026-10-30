@@ -1,0 +1,6 @@
+{
+  "name": "DNS Hızlı Geçiş - AdGuard",
+  "description": "Android için tek tıkla Otomatik DNS ve AdGuard Özel DNS (dns.adguard.com) arasında geçiş sağlayan hafif ve optimize mobil uygulama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

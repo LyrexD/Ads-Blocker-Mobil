@@ -1,0 +1,8 @@
+{
+  "appId": "com.autodns.app",
+  "appName": "DNS Hızlı Geçiş",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
